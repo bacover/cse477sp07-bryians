@@ -1,21 +1,21 @@
 --------------------------------------------------------------------------------
--- Company: Penn State University
--- Engineers: Brian Ghigiarelli & Bryan Cover
+-- Company: 
+-- Engineer:
 --
--- Create Date:    02:41:00 02/27/2007
--- Design Name:    CSE 477
--- Module Name:    not1_1 - Behavioral
+-- Create Date:    14:48:03 03/01/07
+-- Design Name:    
+-- Module Name:    nand2 - Behavioral
 -- Project Name:   
 -- Target Device:  
 -- Tool versions:  
 -- Description:
---		  An inverter gate, single input, single output.
+--
 -- Dependencies:
 -- 
 -- Revision:
 -- Revision 0.01 - File Created
 -- Additional Comments:
---			101 ps delay
+--			114 ps delay
 -- 
 --------------------------------------------------------------------------------
 library IEEE;
@@ -28,17 +28,15 @@ use IEEE.STD_LOGIC_UNSIGNED.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
-entity not1_1 is
-    Port ( a : in std_logic;
+entity nand2 is
+    Port ( a : in std_logic_vector(1 downto 0);
            z : out std_logic);
-end bg1inv1;
+end nand2;
 
-architecture Behavioral of not1_1 is
+architecture Behavioral of nand2 is
 
 begin
 
-	z <= (not a) after 101 ps;
+	z <= a(0) nand a(1) after 114 ps;
 
 end Behavioral;
-
-
