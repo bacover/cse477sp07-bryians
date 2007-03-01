@@ -2,3 +2,127 @@
 not1_1_summary.html
 # xst flow : RunXST
 not1_1_summary.html
+# xst flow : RunXST
+not1_1_summary.html
+# xst flow : RunXST
+mux2_1_summary.html
+# Compile HDL Simulation Libraries
+compxlib.log
+project.cxl
+project.compxlib_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# Check Syntax
+mux2_1.stx
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+mux2_1.ngc
+mux2_1.ngr
+# XST (Creating Lso File) : 
+mux2_1.lso
+# xst flow : RunXST
+mux2_1_summary.html
+# xst flow : RunXST
+mux2_1.syr
+mux2_1.prj
+mux2_1.sprj
+mux2_1.ana
+mux2_1.stx
+mux2_1.cmd_log
+mux2_1.ngc
+mux2_1.ngr
+# Implementation : Post-Synthesis Simulation Model Report
+mux2_1_synthesis.vhd
+mux2_1_synthesis.nlf
+mux2_1.vhdsim_synth
+mux2_1.synth_nlf
+mux2_1.cmd_log
+mux2_1_synthesis.vhd
+# Bencher : Creating project file
+mux2_1_tbw_bencher.prj
+# ProjNav -> New Source -> TBW
+mux2_1_tbw.vhw
+mux2_1_tbw.ano
+mux2_1_tbw.tfw
+mux2_1_tbw.ant
+# Bencher : Creating project file
+mux2_1_tbw_bencher.prj
+# Bencher Waveform : PDCL (jhdparse)
+# Bencher : Creating project file
+mux2_1_tbw_bencher.prj
+# Update Bencher Waveform
+__projnav/updateTBW_tcl.rsp
+mux2_1_tbw.vhw
+mux2_1_tbw.ano
+mux2_1_tbw.tfw
+mux2_1_tbw.ant
+# ModelSim : Simulate Behavioral VHDL Model
+mux2_1_tbw.fdo
+# ModelSim : Simulate Behavioral VHDL Model
+vsim.wlf
+# xst flow : RunXST
+mux2_1_summary.html
